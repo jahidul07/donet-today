@@ -100,8 +100,33 @@ justify-content: left;
 .card-desc{
 
 }
-
-
+/* depend start */
+.depend-container{
+	display: flex;
+	gap: 20px;
+	padding: 70px 200px;
+}
+.depend-head{
+text-align: center;
+}
+.depend-title{
+font-size: 3rem;
+font-weight: bold;
+color: green;
+margin-bottom: 30px;
+}
+.depend-desc{
+color: blue;
+margin-bottom: 30px;
+font-size: 1.3rem;
+}
+.btn1{
+background-color: orange;
+border: none;
+padding: 10px;
+border-radius: 10px;
+margin-bottom: 30px;
+}
 
 
 
